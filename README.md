@@ -26,3 +26,8 @@ Jueves, 18 de octubre 2018 · Multimedia II
 - Verdugo Lara, Andrea → https://github.com/andreaaapo/primera-entrega
 - Vivanco Brellenthin, Matias → https://github.com/matiasvivancob/primera-entrega
 - Zúñiga Gajardo, Natalia → https://github.com/zuniga-natalia/primera-entrega
+
+### Evaluación
+
+**1,0 punto.- Imágenes de portafolio**: un mínimo de 6, cada imagen debe tener un peso menor a 250kb, sin perder calidad (se recomienda un ancho máximo de 800 pixeles, a una resolusión de 72 dpi)
+
