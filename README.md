@@ -34,3 +34,9 @@ Jueves, 18 de octubre 2018 · Multimedia II
 **1,0 pto.- Cada ítem de portafolio**: La imagen debe acompañarse de un texto breve, directo e informativo. Reemplaza los botones "View|Edit" por un vínculo a ver más detalles del mismo trabajo en otro medio (behance, tumblr, instragram, etc.) que se abre en nueva pantalla (`target="_blank"`). Y el dato de los "9 mins", se cambia por año en que fue desarrollado el trabajo. 
 
 **1,0 pto.- Información clave para la página**: Modifica el title e incluye un ícono (un favicon, realizado y vinculado en formato PNG). Además, agrega metadatos con la ayuda de https://megatags.co/ 
+
+**1,0 pto.- Encabezado desplegable**: Modifica los contenidos, incluyendo una descripción breve (puede repetir el metadato) y, al menos, 2 vías de contacto, una de ellas puede ser su correo (con el vínculo correspondiente; que abra cliente de correo), y otra su cuenta en GitHub (con el vínculo correspondiente; que abra nueva pestaña)
+
+**1,0 pto.- Encabezado fijo**: Incluye imagen de fondo para reforzar el énfasis de su portafolio. Modifica el texto para complementar la descripción en encabezado desplegable, y elimina los botones.
+
+**2,0 pto.- Uso de estilos CSS**: Le saca el mejor provecho al estilo de Bootstrap (0,5), lo complementa con el suyo -auténticamente- propio (0,5), suma un buen "pairing" de fuentes de google (0,5) y aprovecha los pictogramas de Font Awesome (0,5), dando por resultado un sitio web de aspecto profesional.
