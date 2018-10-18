@@ -31,3 +31,4 @@ Jueves, 18 de octubre 2018 · Multimedia II
 
 **1,0 punto.- Imágenes de portafolio**: un mínimo de 6, cada imagen debe tener un peso menor a 250kb, sin perder calidad (se recomienda un ancho máximo de 800 pixeles, a una resolusión de 72 dpi)
 
+**1,0 pto.- Cada ítem de portafolio**: La imagen debe acompañarse de un texto breve, directo e informativo. Reemplaza los botones "View|Edit" por un vínculo a ver más detalles del mismo trabajo en otro medio (behance, tumblr, instragram, etc.) que se abre en nueva pantalla (`target="_blank"`). Y el dato de los "9 mins", se cambia por año en que fue desarrollado el trabajo. 
